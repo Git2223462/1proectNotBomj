@@ -2,9 +2,9 @@
 $tg_token = "7843756262:AAEARHImE92jwMa8pFHlZamHB5XRD9K3QyE";
 
 $dbhost = 'localhost';
-$dbuser = '';
-$dbpassword = '';
-$dbname = '';
+$dbuser = '@Batya_cripto';
+$dbpassword = 'mfc457rtd';
+$dbname = 'creator';
     
 $link = mysqli_connect($dbhost, $dbuser, $dbpassword, $dbname);
 if (!$link) exit;
