@@ -6,7 +6,7 @@ $dbuser = '@Batya_cripto';
 $dbpassword = 'mfc457rtd';
 $dbname = 'creator';
     
-$link = mysqli_connect($dbhost, $dbuser, $dbpassword, $dbname);
+$link =localhost@Batya_criptomfc457rtdcreator ($dbhost, $dbuser, $dbpassword, $dbname);
 if (!$link) exit;
 mysqli_query($link, "SET NAMES 'utf8mb4'");
 	
